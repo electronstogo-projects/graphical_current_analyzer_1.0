@@ -1,0 +1,6 @@
+pi pico
+2.8inch display
+ina219
+3 color housing.
+
+Voltage regulation is done with a screw at the boost up converter. 
